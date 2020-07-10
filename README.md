@@ -6,6 +6,6 @@
 
 - **EliteOrder** food delivery app build with ReactNative + Firebase
 - **EliteERP** ERP Project, build with Laravel and mySQL
-- **TheIceJI - new website** My new website, build with NextJS
+- **TheIceJI** My new website, build with NextJS
 
 know me more at [TheIceJI](https://TheIceJI.com)
