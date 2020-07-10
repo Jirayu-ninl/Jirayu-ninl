@@ -1,4 +1,4 @@
-![alt image](https://theiceji.com/wp-content/uploads/2020/06/Logo-IJN_Black_x.png.webp) ###  Hi, I AM TheIceJI
+##  ![alt image](https://theiceji.com/wp-content/uploads/2020/06/Logo-IJN_Black_x.png.webp) Hi, I AM TheIceJI
 
 -----
 
