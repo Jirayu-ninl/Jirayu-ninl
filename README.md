@@ -8,4 +8,4 @@
 - **EliteERP** ERP Project, build with Laravel and mySQL
 - **TheIceJI** My new website, build with NextJS
 
-![alt image](https://img.icons8.com/small/16/000000/double-right.png") know me more at [TheIceJI](https://TheIceJI.com)
+![alt image](https://img.icons8.com/small/16/000000/double-right.png) know me more at [TheIceJI](https://TheIceJI.com)
