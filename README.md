@@ -1,4 +1,4 @@
-##  ![alt image](https://theiceji.com/logo_white.svg) Hi, I AM TheIceJI
+##  ![alt image](https://blog.theiceji.com/wp-content/uploads/2020/06/Logo-IJN_Black_x.png) Hi, I AM TheIceJI
 
 **React | NextJS | NodeJS | NGINX | LiteSpeed | Redis**
 
