@@ -8,4 +8,6 @@
 - **EliteERP** ERP Project, build with Laravel and mySQL
 - **TheIceJI** My new website, build with NextJS
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jirayu-ninl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 know me more at [TheIceJI](https://TheIceJI.com)
