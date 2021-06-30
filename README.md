@@ -8,7 +8,7 @@
 - 👯 I’m looking to new oportunities.
 - 💬 Ask me about Web, App, etc.
 
-#### ![alt image](https://img.icons8.com/small/16/000000/submit-progress.png) On-progress
+#### On-progress
 
 - **EliteOrder** food delivery app build with ReactNative + Firebase
 - **EliteERP** ERP Project, build with Laravel and mySQL
