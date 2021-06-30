@@ -16,6 +16,7 @@
 
 #### Languages and Tools
 
+<img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
