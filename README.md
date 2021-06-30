@@ -14,7 +14,7 @@
 - **EliteERP** ERP Project, build with Laravel and mySQL
 - **TheIceJI** My new website, build with NextJS
 
-<b>Languages and Tools</b>
+#### Languages and Tools
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
