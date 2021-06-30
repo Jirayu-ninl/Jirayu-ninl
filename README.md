@@ -2,7 +2,7 @@
 
 **React | NextJS | NodeJS | NGINX | LiteSpeed | Redis**
 
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Jirayu Ninlapun from Spain.
+- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Jirayu Ninlapun from Bangkok.
 - 🔭 Interested in web technologies, such as WebGL, WebRTC, etc
 - 🌱 I’m currently learning typescript & tdd
 - 👯 I’m looking to new oportunities.
