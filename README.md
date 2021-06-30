@@ -31,8 +31,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jirayu-ninl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jirayu-ninl&theme=blue-green)]
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Jirayu-ninl&theme=blue-green)]
-
+![Top Langs](https://github-readme-stats.vercel.app/api?username=Jirayu-ninl&theme=blue-green)
 
 know me more at [TheIceJI](https://TheIceJI.com)
