@@ -11,10 +11,10 @@
 
 #### On-progress
 
-- **Encores** a Concert live streaming plateform
-- **My Axie** axie infinity scholar and account management
-- **Filmmunity** Community for Short-filmmaker
-- **TheIceJI** My new website (v2), build with NextJS
+- **Encores** - a Concert live streaming plateform
+- **MyAxie** - axie infinity scholar and account management
+- **Filmmunity** - community for Short-filmmaker
+- **TheIceJI** - my new website (v2), build with NextJS
 
 #### Languages and Tools
 
