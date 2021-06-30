@@ -11,9 +11,10 @@
 
 #### On-progress
 
-- **EliteOrder** food delivery app build with ReactNative + Firebase
-- **EliteERP** ERP Project, build with Laravel and mySQL
-- **TheIceJI** My new website, build with NextJS
+- **Encores** a Concert live streaming plateform
+- **My Axie** axie infinity scholar and account management
+- **Filmmunity** Community for Short-filmmaker
+- **TheIceJI** My new website (v2), build with NextJS
 
 #### Languages and Tools
 
