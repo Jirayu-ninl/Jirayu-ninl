@@ -11,7 +11,7 @@
 #### On-progress
 
 - **Encores** - a Concert live streaming plateform
-- **(AxieOne)[https://axieone.com]** - Axie Infinity scholar and account management
+- (AxieOne)[https://axieone.com] - Axie Infinity scholar and account management
 - **Filmmunity** - a Community for Short-filmmaker
 - (**TheIceJI**)[https://theiceji.com] - my new website (v2), build with NextJS
 
