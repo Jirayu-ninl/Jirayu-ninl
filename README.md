@@ -3,17 +3,17 @@
 ![NextJS](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white) ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apollo](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 - I am Jirayu Ninlapun from Bangkok.
-- Interested in web technologies, such as WebGL
-- I’m currently learning GLSL and Solidity.
+- Interested in WebGL, and Blockchain.
+- I’m currently learning Rust and Solidity.
 - Road to be a Front-end Expert.
 - I’m looking to new oportunities.
 
 #### On-progress
 
 - **Encores** - a Concert live streaming plateform
-- **AxieOne** - Axie Infinity scholar and account management
+- (**AxieOne**)[https://axieone.com] - Axie Infinity scholar and account management
 - **Filmmunity** - a Community for Short-filmmaker
-- **TheIceJI** - my new website (v2), build with NextJS
+- (**TheIceJI**)[https://theiceji.com] - my new website (v2), build with NextJS
 
 #### Languages and Tools
 
