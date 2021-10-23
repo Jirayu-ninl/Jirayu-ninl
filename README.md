@@ -12,8 +12,9 @@
 
 - **Encores** - a Concert live streaming plateform
 - [**AxieOne**](https://axieone.com) - Axie Infinity scholar and account management
-- **Filmmunity** - a Community for Short-filmmaker
-- [**TheIceJI**](https://theiceji.com) - my new website (v2), build with NextJS
+- **FILMEX** - a Community for Short-filmmaker
+- [**TheIceJI**](https://theiceji.com) - my website, build with NextJS
+- **ALR Network** - Metaverse Blockchain, bridge with Solana and BSC
 
 #### Languages and Tools
 
