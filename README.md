@@ -1,4 +1,4 @@
-##  ![alt image](https://blog.theiceji.com/wp-content/uploads/2020/06/Logo-IJN_White_x.png) Hi, I AM TheIceJI
+##  ![alt image](https://www.theiceji.com/logo_white.svg) Hi, I AM TheIceJI
 
 ![NextJS](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white) ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apollo](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
