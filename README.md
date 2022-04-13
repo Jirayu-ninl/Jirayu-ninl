@@ -1,7 +1,8 @@
 ##  <img src="https://www.theiceji.com/logo_white.svg" alt="TheIceJI" width="64px"/> Hi, I AM TheIceJI
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,nodejs,nestjs,graphql,mongodb,redis)](https://skillicons.dev) <br />
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Amp](https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![ThreeJs](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Amp](https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![ThreeJs](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white) <br />
+[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,nodejs,nestjs,graphql,mongodb,redis)](https://skillicons.dev)
+
 
 - I am Jirayu Ninlapun from Bangkok.
 - Interested in WebGL, and Blockchain.
