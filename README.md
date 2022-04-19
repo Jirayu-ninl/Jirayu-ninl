@@ -2,7 +2,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Amp](https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![ThreeJs](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white) <br />
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind,nodejs,nestjs,graphql,mongodb,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,nestjs,tailwind,nodejs,graphql,mongodb,redis)](https://skillicons.dev)
 
 
 - I am Jirayu Ninlapun from Bangkok.
