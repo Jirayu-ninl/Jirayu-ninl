@@ -2,7 +2,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Amp](https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![ThreeJs](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white) <br />
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,nuxtjs)](https://theiceji.com)&ensp;<img src="https://raw.githubusercontent.com/Jirayu-ninl/Jirayu-ninl/2f83c7b697ae6031500227f2fd9f864c88cbec1c/icon/lsws.svg" alt="LSWS" width="48px"/>&ensp;[![My Skills](https://skillicons.dev/icons?i=graphql,mongodb,redis)](https://theiceji.com)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,tailwind,nodejs)](https://theiceji.com)&ensp;<img src="https://raw.githubusercontent.com/Jirayu-ninl/Jirayu-ninl/2f83c7b697ae6031500227f2fd9f864c88cbec1c/icon/lsws.svg" alt="LSWS" width="48px"/>&ensp;[![My Skills](https://skillicons.dev/icons?i=graphql,mongodb,redis)](https://theiceji.com)
 
 
 - I am Jirayu Ninlapun from Bangkok.
