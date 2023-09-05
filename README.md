@@ -2,7 +2,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![NextJs](https://img.shields.io/badge/NextJs-black?logo=next.js&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?logo=framer&logoColor=blue) ![ThreeJs](https://img.shields.io/badge/ThreeJs-black?logo=three.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwind-2B3A42?&logo=tailwind%20css) ![Webpack](https://img.shields.io/badge/webpack-2B3A42?logo=webpack) <br />
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,tailwind,nodejs)](https://theiceji.com)&ensp;<img src="https://raw.githubusercontent.com/Jirayu-ninl/Jirayu-ninl/2f83c7b697ae6031500227f2fd9f864c88cbec1c/icon/lsws.svg" alt="LSWS" width="48px"/>&ensp; ![My Skills](https://skillicons.dev/icons?i=graphql,mongodb,redis,prisma,sentry,firebase)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs)](https://theiceji.com)&ensp;<img src="https://raw.githubusercontent.com/Jirayu-ninl/Jirayu-ninl/2f83c7b697ae6031500227f2fd9f864c88cbec1c/icon/lsws.svg" alt="LSWS" width="48px"/>&ensp; ![My Skills](https://skillicons.dev/icons?i=graphql,mongodb,redis,prisma,sentry,firebase)
 
 
 - I am Jirayu Ninlapun from Bangkok.
