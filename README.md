@@ -14,8 +14,6 @@
 
 #### On-progress
 
-https://nexellab.com/
-
 - [**TheIceJI**](https://theiceji.com) - my website, build with NextJS
 - [**ARTSCAPE**](https://artscape.day) - a Community for Art creator
 - [**NEXEL**](https://nexellab.com/) - Creators of cutting-edge technology
