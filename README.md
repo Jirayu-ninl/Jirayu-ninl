@@ -26,10 +26,15 @@
 #### Others TechStack
 
 ![NuxtJs](https://img.shields.io/badge/NuxtJs-black?logo=nuxt.js)
-![SWC](https://img.shields.io/badge/SWC-black?logo=swc)
+![SWC](https://img.shields.io/badge/SWC-black?logo=swc&logoColor=FFA633)
 ![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
+![NGINX](https://img.shields.io/badge/NGINX-black?logo=nginx&logoColor=009639)
+![NGINX](https://img.shields.io/badge/NGINX-black?logo=nginx&logoColor=009639)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Docker](https://img.shields.io/badge/Docker-black?&logo=Dockerx&logoColor=2496ED)
 ![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
+![GCP](https://img.shields.io/badge/GCP-black?&logo=googlecloud&logoColor=4285F4)
+![AWSS3](https://img.shields.io/badge/AWS%20S3-black?logo=amazons3&logoColor=FF9900)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jirayu-ninl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
