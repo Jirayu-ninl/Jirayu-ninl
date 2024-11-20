@@ -1,4 +1,4 @@
-##  <img src="https://assets.theiceji.com/projects/TheIceJi_Logo_white.svg" alt="TheIceJI" width="64px"/> Hi, I AM TheIceJI
+##  <img src="https://orion.theiceji.com/TheIceJi_logo_white.svg" alt="TheIceJI" width="64px"/> Hi, I AM TheIceJI
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![Express](https://img.shields.io/badge/Express-ECD53F?logo=express&logoColor=black) ![tRPC](https://img.shields.io/badge/tRPC-black?logo=trpc) ![Framer](https://img.shields.io/badge/Framer-black?logo=framer&logoColor=blue) ![ThreeJs](https://img.shields.io/badge/ThreeJs-black?logo=three.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwind-2B3A42?&logo=tailwind%20css) ![Webpack](https://img.shields.io/badge/webpack-2B3A42?logo=webpack) <br />
 
