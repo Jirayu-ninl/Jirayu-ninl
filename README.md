@@ -18,6 +18,7 @@
 - [**TheIceJI**](https://theiceji.com) - my website, build with NextJS
 - [**ARTSCAPE**](https://artscape.day) - a Community for Art creator
 - [**NEXEL**](https://nexellab.com/) - Creators of cutting-edge technology
+- [**ARCH Framework**](https://arch.nexellab.com/) - Creators of cutting-edge technology
 - **Encores** - a Concert live streaming plateform
 - [**Aurora Stack**](https://aurora.nexellab.com/) - Scalability, Modularity, and Full-stack type-safety app
 - [**Nova Stack**](https://nova.nexellab.com/) - Flexibility, Scalability, and Seamless backend stack
