@@ -1,8 +1,8 @@
 ##  <img src="https://orion.theiceji.com/TheIceJi_logo_white.svg" alt="TheIceJI" width="64px"/> Hi, I AM TheIceJI
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![Express](https://img.shields.io/badge/Express-ECD53F?logo=express&logoColor=black) ![tRPC](https://img.shields.io/badge/tRPC-black?logo=trpc) ![Framer](https://img.shields.io/badge/Framer-black?logo=framer&logoColor=blue) ![ThreeJs](https://img.shields.io/badge/ThreeJs-black?logo=three.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwind-2B3A42?&logo=tailwind%20css) ![Webpack](https://img.shields.io/badge/webpack-2B3A42?logo=webpack) <br />
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![Hono](https://img.shields.io/badge/Hono-e36002?logo=hono&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-black?logo=trpc) ![Framer](https://img.shields.io/badge/Framer-black?logo=framer&logoColor=blue) ![ThreeJs](https://img.shields.io/badge/ThreeJs-black?logo=three.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwind-2B3A42?&logo=tailwind%20css) ![Webpack](https://img.shields.io/badge/webpack-2B3A42?logo=webpack) <br />
 
-![My Skills](https://skillicons.dev/icons?i=nextjs,nestjs,nodejs)&ensp;<img src="https://raw.githubusercontent.com/Jirayu-ninl/Jirayu-ninl/0f4a628e38c0c02e9a5cd51a366f636a97ea7d18/icon/trpc.svg" alt="LSWS" width="48px"/>&ensp;<img src="https://raw.githubusercontent.com/Jirayu-ninl/Jirayu-ninl/2f83c7b697ae6031500227f2fd9f864c88cbec1c/icon/lsws.svg" alt="LSWS" width="48px"/>&ensp; ![My Skills](https://skillicons.dev/icons?i=graphql,mongodb,redis,prisma,sentry,firebase)
+![My Skills](https://skillicons.dev/icons?i=nextjs,nestjs,bun)&ensp;<img src="https://raw.githubusercontent.com/Jirayu-ninl/Jirayu-ninl/0f4a628e38c0c02e9a5cd51a366f636a97ea7d18/icon/trpc.svg" alt="LSWS" width="48px"/>&ensp;<img src="https://raw.githubusercontent.com/Jirayu-ninl/Jirayu-ninl/2f83c7b697ae6031500227f2fd9f864c88cbec1c/icon/lsws.svg" alt="LSWS" width="48px"/>&ensp; ![My Skills](https://skillicons.dev/icons?i=graphql,mongodb,redis,prisma,sentry,firebase)
 
 
 
@@ -15,15 +15,19 @@
 
 #### On-progress
 
-- [**TheIceJI**](https://theiceji.com) - my website, build with NextJS
+- [**TheIceJI**](https://theiceji.com) - My main website, build with NextJS
+- **Celestia Ecosystem** - My personal ecosystem services -- [**Overview**](https://www.theiceji.com/showcase/2024) | [**Services**](https://nebula.theiceji.com)
 - [**ARTSCAPE**](https://artscape.day) - a Community for Art creator
 - [**NEXEL**](https://nexellab.com/) - Creators of cutting-edge technology
-- [**ARCH Framework**](https://arch.nexellab.com/) - Creators of cutting-edge technology
-- **Encores** - a Concert live streaming plateform
+- [**ARCH Framework**](https://arch.nexellab.com/) - Scalability, Modularity Full-Stack Framework
+- [**PinPal**](https://www.pinpal.day/) - Connect with explorers worldwide and discover hidden gems in every corner of the globe
+- **Encores** - a Concert live streaming platform (on-hold)
 - [**Aurora Stack**](https://aurora.nexellab.com/) - Scalability, Modularity, and Full-stack type-safety app
 - [**Nova Stack**](https://nova.nexellab.com/) - Flexibility, Scalability, and Seamless backend stack
 - [**AxieOne**](https://axieone.com) - Axie Infinity scholar and account management
-- **ALR Network** - Metaverse Blockchain, bridge with Solana and BSC
+- **ALR Network** - Metaverse Blockchain, bridge with Solana and BSC (on-hold)
+
+for other works, check out here [**Works**](https://www.theiceji.com/?section=WORKS)
 
 #### Others TechStack
 
@@ -36,6 +40,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
 ![GCP](https://img.shields.io/badge/GCP-black?&logo=googlecloud&logoColor=4285F4)
 ![AWSS3](https://img.shields.io/badge/AWS%20S3-black?logo=amazons3&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/Railway-black?&logo=railway&logoColor=ffffff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jirayu-ninl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
