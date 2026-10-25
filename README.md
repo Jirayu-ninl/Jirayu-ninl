@@ -1,47 +1,47 @@
-##  <img src="https://orion.theiceji.com/TheIceJi_logo_white.svg" alt="TheIceJI" width="64px"/> Hi, I AM TheIceJI
+##  <img src="https://orion.theiceji.com/TheIceJi_logo_white.svg" alt="TheIceJI" width="64px"/> &nbsp;·&nbsp;TheIceJI
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![Hono](https://img.shields.io/badge/Hono-e36002?logo=hono&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-black?logo=trpc) ![Framer](https://img.shields.io/badge/Framer-black?logo=framer&logoColor=blue) ![ThreeJs](https://img.shields.io/badge/ThreeJs-black?logo=three.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwind-2B3A42?&logo=tailwind%20css) ![Webpack](https://img.shields.io/badge/webpack-2B3A42?logo=webpack) <br />
-
-![My Skills](https://skillicons.dev/icons?i=nextjs,nestjs,bun)&ensp;<img src="https://raw.githubusercontent.com/Jirayu-ninl/Jirayu-ninl/0f4a628e38c0c02e9a5cd51a366f636a97ea7d18/icon/trpc.svg" alt="LSWS" width="48px"/>&ensp;<img src="https://raw.githubusercontent.com/Jirayu-ninl/Jirayu-ninl/2f83c7b697ae6031500227f2fd9f864c88cbec1c/icon/lsws.svg" alt="LSWS" width="48px"/>&ensp; ![My Skills](https://skillicons.dev/icons?i=graphql,mongodb,postgresql,redis,prisma,sentry,firebase)
-
-
-
-- I am Jirayu Ninlapun from Bangkok, Thailand.
-- Using cutting-edge technology.
-- Interested in WebGL, and Blockchain.
-- I’m currently learning Rust and Solidity.
-- Road to be a Front-end Expert.
-- I’m looking for new opportunities.
-
-#### On-progress
-
-- [**TheIceJI**](https://theiceji.com) - My main website, build with NextJS
-- **Celestia Ecosystem** - My personal ecosystem services -- [**Overview**](https://www.theiceji.com/showcase/2024) | [**Services**](https://nebula.theiceji.com)
-- [**ARTSCAPE**](https://artscape.day) - a Community for Art creator
-- [**NEXEL**](https://nexellab.com/) - Creators of cutting-edge technology
-- [**ARCH Framework**](https://arch.nexellab.com/) - Scalability, Modularity Full-Stack Framework
-- [**PinPal**](https://www.pinpal.day/) - Connect with explorers worldwide and discover hidden gems in every corner of the globe
-- **Encores** - a Concert live streaming platform (on-hold)
-- [**Aurora Stack**](https://aurora.nexellab.com/) - Scalability, Modularity, and Full-stack type-safety app
-- [**Nova Stack**](https://nova.nexellab.com/) - Flexibility, Scalability, and Seamless backend stack
-- [**AxieOne**](https://axieone.com) - Axie Infinity scholar and account management
-- **ALR Network** - Metaverse Blockchain, bridge with Solana and BSC (on-hold)
-
-for other works, check out here [**Works**](https://www.theiceji.com/?section=WORKS)
-
-#### Others TechStack
-
-![NuxtJs](https://img.shields.io/badge/NuxtJs-black?logo=nuxt.js)
-![SWC](https://img.shields.io/badge/SWC-black?logo=swc&logoColor=FFA633)
-![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
-![NGINX](https://img.shields.io/badge/NGINX-black?logo=nginx&logoColor=009639)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![Docker](https://img.shields.io/badge/Docker-black?&logo=Docker&logoColor=2496ED)
-![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
-![GCP](https://img.shields.io/badge/GCP-black?&logo=googlecloud&logoColor=4285F4)
-![AWSS3](https://img.shields.io/badge/AWS%20S3-black?logo=amazons3&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/Railway-black?&logo=railway&logoColor=ffffff)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jirayu-ninl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-My website: [TheIceJI](https://TheIceJI.com)
+Software engineer based in Bangkok, Thailand. These days I mostly build **Android apps and tools in Kotlin** with Jetpack Compose, with a focus on audio and developer tooling, and I release much of that work as **open source**. Before that, I spent years building full-stack TypeScript products, from interactive web apps to the frameworks and infrastructure behind them.
+ 
+[![Website](https://img.shields.io/badge/theiceji.com-000?style=flat&logo=safari&logoColor=white)](https://theiceji.com)
+[![Email](https://img.shields.io/badge/Email-000?style=flat&logo=gmail&logoColor=white)](mailto:jirayu.ninl@gmail.com)
+<!-- Optional: add LinkedIn / X here if you want them public. -->
+ 
+---
+ 
+#### Open source
+ 
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**ViPER4Shizuku**](https://github.com/Jirayu-ninl/ViPER4Shizuku) | ViPER4Android without root. Runs the ViPER DSP in-app and captures system audio through Shizuku. | Kotlin · GPL-3.0 |
+| [**Android-DevTiles**](https://github.com/Jirayu-ninl/Android-DevTiles) | Quick Settings tiles for Android developers: toggle USB debugging and switch per-screen display size presets, foldable-aware. No root, no Shizuku. | Kotlin · Compose · Apache-2.0 |
+| [**TheIceJi HQ**](https://github.com/Jirayu-ninl/theiceji-hq-2026) | Self-hosted personal command center: projects and modules, AI agents that follow your rules, and an OAuth-protected MCP server. | TypeScript · MIT |
+ 
+Issues, ideas and pull requests are welcome.
+ 
+#### Tech
+ 
+**Android & Kotlin**<br />
+[![Android](https://skillicons.dev/icons?i=kotlin,androidstudio,gradle)](#)
+ 
+**Web & backend**<br />
+[![Web](https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,bun,tailwind,threejs,graphql,rust)](#)
+ 
+**Data & infrastructure**<br />
+[![Infra](https://skillicons.dev/icons?i=postgres,redis,mongodb,prisma,docker,nginx,githubactions,gcp,aws,vercel)](#)
+ 
+---
+ 
+<details>
+<summary><b>Earlier work</b></summary>
+<br />
+- [**NEXEL**](https://nexellab.com/) · Engineering studio behind the stacks below
+  - [**ARCH Framework**](https://arch.nexellab.com/) · Modular, scalable full-stack framework
+  - [**Aurora Stack**](https://aurora.nexellab.com/) · Full-stack, end-to-end type-safe app stack
+  - [**Nova Stack**](https://nova.nexellab.com/) · Flexible backend stack
+- [**ARTSCAPE**](https://artscape.day) · Community platform for art creators
+- [**PinPal**](https://www.pinpal.day/) · Social app for travelers to share and discover hidden gems
+- [**AxieOne**](https://axieone.com) · Scholar and account management for Axie Infinity
+- **Encores** · Concert live-streaming platform *(on hold)*
+More in my [portfolio](https://www.theiceji.com/?section=WORKS).
+ 
+</details>
