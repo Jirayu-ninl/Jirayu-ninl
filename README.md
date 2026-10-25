@@ -46,6 +46,7 @@ Issues, ideas and pull requests are welcome.
 ---
  
 <details>
+ 
 <summary><b>Earlier work</b></summary>
 <br />
 - [**NEXEL**](https://nexellab.com/) · Engineering studio behind the stacks below
