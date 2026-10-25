@@ -49,6 +49,7 @@ Issues, ideas and pull requests are welcome.
  
 <summary><b>Earlier work</b></summary>
 <br />
+
 - [**NEXEL**](https://nexellab.com/) · Engineering studio behind the stacks below
   - [**ARCH Framework**](https://arch.nexellab.com/) · Modular, scalable full-stack framework
   - [**Aurora Stack**](https://aurora.nexellab.com/) · Full-stack, end-to-end type-safe app stack
